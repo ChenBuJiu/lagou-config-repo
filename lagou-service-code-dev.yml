@@ -1,4 +1,4 @@
 lagou:
-  message: hello lagou666
+  message: hello lagou
 mysql:
-  url: jdbc:mysql://localhost:3306/lagou666
+  url: jdbc:mysql://localhost:3306/lagou
