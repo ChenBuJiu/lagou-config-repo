@@ -1,5 +1,5 @@
 filter:
   limit:
     ip:
-      maxtimes: 10
+      maxtimes: 1
       limitminutes: 1
